@@ -27,3 +27,6 @@ Run the following commands:
 
 ## 📷 Example Output
 After each epoch, the model will display generated handwritten digits from noise.
+![Sample Output](./sample_output_08.38.48.png)
+
+
